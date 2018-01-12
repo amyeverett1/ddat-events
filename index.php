@@ -58,7 +58,7 @@
          <div class="wrapper">
             <div class="box white">
           
-   <p>Details of the next All-Staff dial-in will be added in 2018.</p>
+   <p>Details of the next all-staff dial-in will be added in 2018.</p>
              
    
                   <!-- <div class="button_container_first">
