@@ -52,13 +52,13 @@
       
     </div>
     
-  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT All-Staff WebEx events - Coming Soon</span></h3>
+  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - coming soon</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
           
-   <p>Details of the next All-Staff WebEx will be added in 2018.</p>
+   <p>Details of the next All-Staff dial-in will be added in 2018.</p>
              
    
                   <!-- <div class="button_container_first">
