@@ -37,7 +37,7 @@
     <ul>
         <li>Croydon - 25 January</li>
         <li>Hendon - 7 February</li>
-        <li>Bedfont Lakes - 27 February</li>
+        <li>Bedfont Lakes - 28 February</li>
     </ul>           
 </p>
 
