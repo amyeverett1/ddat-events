@@ -52,13 +52,13 @@
       
     </div>
     
-  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - coming soon</span></h3>
+  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 20 March 2018</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
           
-   <p>Details of the next all-staff dial-in will be added in 2018.</p>
+   <p>The next all-staff dial-in event is scheduled for 12:00-13:00 hours on Tuesday 20 March 2018. Further details will be added in due course</p>
              
    
                   <!-- <div class="button_container_first">
