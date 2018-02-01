@@ -14,7 +14,7 @@
 <div>
 <div class="wrapper">
    
-    <p>The next DDaT Together event is scheduled for 20 February 2018 at the Kia Oval. Further details will be added in due course.</p>
+    <p>The next DDaT Together event is scheduled for 20 February 2018 at the Kia Oval.</p>
     
  <div class="button_container_first">
                 <a class="btTxt" href="http://ddat-together.herokuapp.com/">View event</a>
