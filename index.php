@@ -10,17 +10,13 @@
 <div class="accordion">    
 
       
-<h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>DDaT Together - 20 February 2018</span></h3> 
+<h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>DDaT Together - October 2018</span></h3> 
 <div>
 <div class="wrapper">
    
-    <p>The next DDaT Together event is scheduled for 20 February 2018 at the Kia Oval.</p>
+    <p>The next DDaT Together event is scheduled for October 2018. Further details will be added in due course.</p>
     
- <div class="button_container_first">
-                <a class="btTxt" href="http://ddat-together.herokuapp.com/">View event</a>
-            </div> 
     
-
     </div> <!-- wrapper-->
     
   </div><!-- end agenda-->
@@ -33,11 +29,11 @@
             <div class="box white">
           
    
-   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the proposed DDaT Roundtable dates for 2018 so far:</p>
+   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the next upcoming proposed DDaT Roundtable dates:</p>
     <ul>
-        <li>Croydon - 25 January</li>
-        <li>Hendon - 7 February</li>
-        <li>Bedfont Lakes - 28 February</li>
+        <li>Bedfont Lakes - 27 March</li>
+        <li>Croydon - April &amp; May</li>
+        <li>Hendon  - 16 May</li>
     </ul>           
 </p>
 
@@ -52,13 +48,13 @@
       
     </div>
     
-  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 20 March 2018</span></h3>
+  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
           
-   <p>The next all-staff dial-in event is scheduled for 12:00-13:00 hours on Tuesday 20 March 2018. Further details will be added in due course</p>
+   <p>The next all-staff dial-in event is scheduled for 16 May 2018. Further details will be added in due course.</p>
              
    
                   <!-- <div class="button_container_first">
