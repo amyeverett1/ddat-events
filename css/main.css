@@ -60,9 +60,9 @@ h4 {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     color: #fff!important;
-    font-size: 3.2em;
+    font-size: 2.8em;
 }
 
 p, ul {
@@ -73,28 +73,26 @@ p, ul {
 
 .logo_box {
   float: left;
-  position: absolute;
-  left: 200px;
-  max-width: 300px;
+  width: 300px;
 }
 
 .logo_box img {
-  width: 160px;
+  width: 200px;
+  padding-top: 1.5em;
 }
 
 .head_box {
   max-width: 690px;
   float: left;
+  margin-left: 3em;
 }
 
 .date {
     color:#fff!important;
-    text-align: center;
     display: block;
     font-family: 'Helvetica Neue', Arial, sans-serif;
     padding: 0px 0 25px 0;
     font-size: 1.3em;
-    width: 90%;
     margin: 0 auto;
 }
 
