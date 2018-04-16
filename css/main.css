@@ -70,12 +70,13 @@ p, ul {
 }
 
 .logo_box {
-  float: left;
+  float: right;
+  position: absolute;
+  right: 200px;
 }
 
 .logo_box img {
-  width: 300px;
-  max-heigth: 100%;
+  width: 220px;
 }
 
 
