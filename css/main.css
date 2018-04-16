@@ -8,7 +8,6 @@ body {
     font-family: 'Helvetica Neue', Arial, sans-serif!important;
     font-size: 16px;
     line-height: 1.7em;
-    font-weight: 200;
 }
 
 header {
@@ -181,7 +180,6 @@ i {
 a {
     color: #00747A!important;
     text-decoration: none;
-    font-weight: 600;
     word-wrap: break-word;
 }
 
@@ -419,7 +417,6 @@ form label > span {
     background: #fff!important;
     color: #00747A!important;
     text-transform: uppercase;
-    font-weight: 600;
     letter-spacing: 1px;
     border: 1px solid #dddddd;
 }
@@ -471,9 +468,6 @@ footer p  {
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-footer a {
-    font-weight: 400;
-}
 
 @media screen  and (max-width : 350px) {
 

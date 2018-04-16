@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-<div class="logo_box">  <img src="/images/logo.png" alt="#"/> </div> <h1>DDaT Together Events</h1>
+<div class="logo_box">  <img src="/img/logo.png" alt=""> </div> <h1>DDaT Together Events</h1>
 </header>
 
 <div class="date">
