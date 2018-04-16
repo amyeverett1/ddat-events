@@ -1,15 +1,6 @@
 <?php include('header.php') ?>
-  <div class="logo_box">
-    <img src="/img/logo.png" alt="">
-  </div>
-  <div class="head_box">
-    <div class="date">
-        <span>Welcome to the Digital, Data and Technology event booking app, your one stop shop for key DDaT Together events</span>
-    </div>
-    <h1>DDaT Together Events</h1>
-  </div>
+<h1>DDaT Together Events</h1>
 </header>
-
 
 
 
@@ -103,7 +94,7 @@
 
      </div> <!--end CONTAINER-->
 
-
+<p>For the best experience using this site, we recommend you use Google Chrome as your browser.</p>
 </div> <!--end ACCORDION-->
 
 

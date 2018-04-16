@@ -1,5 +1,8 @@
         <footer>
-            <p>For the best experience using this site, we recommend you use Google Chrome as your browser.</p>
+          <div class="logo_box">  <img src="/img/logo.png" alt=""> </div>
+
+
+
         </footer>
 
     <script src="lib/jquery-2.0.3.js"></script>
@@ -12,7 +15,6 @@
 
 } )( jQuery );
 </script>
-
 
     </body>
 </html>
