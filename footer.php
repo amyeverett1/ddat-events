@@ -1,7 +1,5 @@
         <footer>
-          <div class="logo_box">  <img src="/img/logo.png" alt=""> </div>
-
-
+      
 
         </footer>
 

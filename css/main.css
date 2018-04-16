@@ -12,7 +12,9 @@ body {
 
 header {
     padding: 10px 0;
-    height: 100px;
+    height: 200px;
+    max-width: 990px;
+    margin: 0 auto;
 }
 
 .container {
@@ -70,15 +72,20 @@ p, ul {
 }
 
 .logo_box {
-  float: right;
+  float: left;
   position: absolute;
-  right: 200px;
+  left: 200px;
+  max-width: 300px;
 }
 
 .logo_box img {
-  width: 220px;
+  width: 160px;
 }
 
+.head_box {
+  max-width: 690px;
+  float: left;
+}
 
 .date {
     color:#fff!important;

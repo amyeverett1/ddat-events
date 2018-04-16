@@ -1,10 +1,24 @@
 <?php include('header.php') ?>
-<h1>DDaT Together Events</h1>
+
+
+
+
+<div class="logo_box">
+  <img src="/img/logo.png" alt="">
+</div>
+
+
+<div class="head_box">
+    <h1>DDaT Together Events</h1>
+    <div class="date">
+        <span>Welcome to the Digital, Data and Technology event booking app, your one stop shop for key DDaT Together events</span>
+    </div>
+</div>
+
+
 </header>
 
-<div class="date">
-    <span>Welcome to the Digital, Data and Technology event booking app, your one stop shop for key DDaT Together events</span>
-</div>
+
 
 <div class="container index">
 <div class="accordion">
