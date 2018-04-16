@@ -12,7 +12,6 @@ body {
 
 header {
     padding: 10px 0;
-    height: 200px;
     max-width: 990px;
     margin: 0 auto;
 }
@@ -357,6 +356,12 @@ form label > span {
     border-bottom: 1px solid #004141;
 }
 
+.browser {
+  font-size: 1em;
+  color: #00747A;
+  padding: 20px;
+}
+
 .footer_button_container {
     height: 35px;
     margin: 0 0 23px 0;
@@ -535,10 +540,6 @@ footer p  {
         font-weight: normal;
     }
 
-    header {
-        height: 100px!important;
-    }
-
     .ui-accordion-header span {
         font-size: .8em;
     }
@@ -579,6 +580,11 @@ footer p  {
     .two-lines {
         padding-top: 0!important;
     }
+
+    .logo_box img, .head_box {
+        margin-left: 1em;
+    }
+
 
 }
 

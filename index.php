@@ -110,7 +110,7 @@
 
      </div> <!--end CONTAINER-->
 
-<p>For the best experience using this site, we recommend you use Google Chrome as your browser.</p>
+<p class="browser">For the best experience using this site, we recommend you use Google Chrome as your browser.</p>
 </div> <!--end ACCORDION-->
 
 
