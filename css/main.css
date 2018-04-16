@@ -11,8 +11,11 @@ body {
 }
 
 header {
-    padding: 10px 0;
-    height: 100px;
+      padding: 10px 0;
+      height: 200px;
+      width: 600px;
+      margin: 0 auto;
+      text-align: left;
 }
 
 .container {
@@ -74,10 +77,13 @@ p, ul {
 }
 
 .logo_box img {
-  width: 300px;
-  max-heigth: 100%;
+  width: 220px;
 }
 
+.head_box {
+  width: 300px;
+  float:left;
+}
 
 .date {
     color:#fff!important;
