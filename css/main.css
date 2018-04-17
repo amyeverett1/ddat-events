@@ -481,85 +481,6 @@ footer p  {
 }
 
 
-@media screen  and (max-width : 350px) {
-
-    .box img {
-        max-width: 70px;
-        max-height: 70px;
-        border: 0 none;
-    }
-
-    .ui-accordion .ui-accordion-header {
-        padding: 1em .5em 1em .7em!important;
-    }
-
-    header h1 {
-        text-align: center;
-        color: #fff;
-        font-size: 1.7em;
-    }
-
-    .btTxt {
-        font-size: 0.80em;
-    }
-
-    header .colours {
-        width: 200px;
-        margin-top: 10px;
-    }
-
-    .date {
-        padding: 0px 0 15px 0;
-    }
-
-    .date span {
-        font-size: 1em;
-        line-height: 1.6em;
-    }
-
-    header {
-        height: 80px!important;
-    }
-
-}
-
-@media screen and (max-width: 450px) {
-    h1 {
-        font-size: 2em;
-    }
-
-    .accordion > h3, .coming-soon > h3 {
-        font-size: 1em;
-    }
-
-    .box h2 {
-        line-height: 1.5em;
-    }
-
-    body {
-        font-family: 'Helvetica Neue', Arial, sans-serif;
-        font-weight: normal;
-    }
-
-    .ui-accordion-header span {
-        font-size: .8em;
-    }
-
-    .two-lines {
-        margin-top: -3px;
-    }
-
-    h1 {
-        margin-left: -1.5em;
-      }
-
-}
-
-@media screen and (max-width: 595px) {
-        header {
-          height: 150px;
-        }
-}
 
 
 @media screen and (max-width: 750px) {
@@ -601,6 +522,69 @@ footer p  {
     }
 
 }
+
+@media screen and (max-width: 595px) {
+        header {
+          height: 150px;
+        }
+}
+
+
+
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    .accordion > h3, .coming-soon > h3 {
+        font-size: 1em;
+    }
+
+    .box h2 {
+        line-height: 1.5em;
+    }
+
+    body {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-weight: normal;
+    }
+
+    .ui-accordion-header span {
+        font-size: .8em;
+    }
+
+    .two-lines {
+        margin-top: -3px;
+    }
+
+    h1 {
+        margin-left: -1.5em;
+      }
+
+}
+
+@media screen  and (max-width : 350px) {
+
+    .box img {
+        max-width: 70px;
+        max-height: 70px;
+        border: 0 none;
+    }
+
+    .ui-accordion .ui-accordion-header {
+        padding: 1em .5em 1em .7em!important;
+    }
+
+    .btTxt {
+        font-size: 0.80em;
+    }
+
+}
+
+
+
+
+/* MIN WIDTH */
 
 
 @media screen and (min-width: 450px) {
