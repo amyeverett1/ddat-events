@@ -29,7 +29,7 @@
   </div><!-- end agenda-->
 
 
-    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Roundtables</span></h3>
+    <h3><i class="fa fa-comments fa-lg" aria-hidden="true"></i> <span>DDaT Roundtables</span></h3>
   <div>
 
          <div class="wrapper">
@@ -55,7 +55,7 @@
 
     </div>
 
-  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
+  <h3><i class="fa fa-phone-volume fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
   <div>
 
          <div class="wrapper">
@@ -77,7 +77,7 @@
     </div>
 
 
-    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Community Events - Coming Soon</span></h3>
+    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Champions Events - Coming Soon</span></h3>
   <div>
 
          <div class="wrapper">
