@@ -517,13 +517,17 @@ footer p  {
         margin-left: -1em;
     }
 
-    h1 {
-      margin-left: -.5em;
-    }
-
     header {
       height: 150px;
       float: left;
+    }
+
+    .logo_box {
+      width: 100%;
+    }
+
+    h1 {
+      width: 100%;
     }
 
 }
