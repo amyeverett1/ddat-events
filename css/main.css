@@ -14,6 +14,7 @@ header {
     padding: 10px 0;
     max-width: 990px;
     margin: 0 auto;
+    height: 100px;
 }
 
 .container {
@@ -582,9 +583,12 @@ footer p  {
     }
 
     .logo_box img, .head_box {
-        margin-left: 1em;
+        margin-left: -1em;
     }
 
+    h1 {
+      margin-left: 1.5em;
+    }
 
 }
 
