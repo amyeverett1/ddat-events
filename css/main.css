@@ -587,7 +587,7 @@ footer p  {
     }
 
     h1 {
-      margin-left: 1.5em;
+      margin-left: -1.5em;
     }
 
 }
@@ -695,4 +695,13 @@ footer p  {
         display: block;
         max-width: 990px;
     }
+}
+
+@media screen and (max-width: 900px) {
+
+  .head_box {
+    margin-left: 0em;
+  }
+
+
 }
