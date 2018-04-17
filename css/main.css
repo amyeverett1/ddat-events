@@ -59,9 +59,12 @@ h4 {
 }
 
 h1 {
-    text-align: left;
-    color: #fff!important;
-    font-size: 2.8em;
+  text-align: right;
+  color: #fff!important;
+  font-size: 2.2em;
+  width: 400px;
+  float: left;
+  font-weight: 300;
 }
 
 p, ul {
@@ -81,7 +84,7 @@ p, ul {
 }
 
 .head_box {
-  max-width: 690px;
+  max-width: 800px;
   float: left;
   margin-left: 3em;
 }
