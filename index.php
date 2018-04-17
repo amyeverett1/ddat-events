@@ -1,13 +1,4 @@
 <?php include('header.php') ?>
-
-
-
-
-<div class="logo_box">
-  <img src="/img/logo.png" alt="">
-</div>
-
-
 <div class="head_box">
     <h1>DDaT Together Events</h1>
     <div class="date">
