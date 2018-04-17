@@ -481,9 +481,14 @@ footer p  {
 }
 
 
+@media screen and (max-width: 900px) {
+  .head_box {
+    margin-left: -1.5em;
+  }
+}
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 800px) {
 
     h3.ui-accordion-header i {
         height: 11px;
@@ -580,8 +585,6 @@ footer p  {
     }
 
 }
-
-
 
 
 /* MIN WIDTH */
@@ -689,13 +692,4 @@ footer p  {
         display: block;
         max-width: 990px;
     }
-}
-
-@media screen and (max-width: 900px) {
-
-  .head_box {
-    margin-left: 0em;
-  }
-
-
 }
