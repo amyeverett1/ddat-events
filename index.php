@@ -55,7 +55,7 @@
 
     </div>
 
-  <h3><i class="fa fa-phone-volume fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
+  <h3><i class="fa fa-volume-control-phone fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
   <div>
 
          <div class="wrapper">
