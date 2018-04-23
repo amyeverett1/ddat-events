@@ -36,12 +36,7 @@
             <div class="box white">
 
 
-   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the next upcoming proposed DDaT Roundtable dates:</p>
-    <ul>
-        <li>Bedfont Lakes - 27 March</li>
-        <li>Croydon - April &amp; May</li>
-        <li>Hendon  - 16 May</li>
-    </ul>
+   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Croydon on 9 May.
 </p>
 
 
