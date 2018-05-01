@@ -53,8 +53,8 @@
          <div class="wrapper">
             <div class="box white">
 
-   <p>The next DDaT staff dial-in will be hosted by Joanna Davinson on Tuesday June 22nd at 1415-1515 hours. This is an opportunity to hear from Joanna about the latest DDaT business and people news and to ask questions. Places are available on a first come first served basis, so please book your place now to avoid disappointment./<p>
-     <p>You will be able to ask questions during the call, but if you would like to any submit any questions in advance please use the following anonymous link: https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/</p>
+   <p>The next DDaT staff dial-in will be hosted by Joanna Davinson on Tuesday May 22nd at 1415-1515 hours. This is an opportunity to hear from Joanna about the latest DDaT business and people news and to ask questions. Places are available on a first come first served basis, so please book your place now to avoid disappointment./<p>
+     <p>You will be able to ask questions during the call, but if you would like to any submit any questions in advance please use <a href="https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/">this anonymous link</a>.</p>
 
 
                   <div class="button_container_first">
