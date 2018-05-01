@@ -47,18 +47,19 @@
 
     </div>
 
-  <h3><i class="fa fa-volume-control-phone fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 16 May 2018</span></h3>
+  <h3><i class="fa fa-volume-control-phone fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 22 May 2018</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
 
-   <p>The next all-staff dial-in event is scheduled for 16 May 2018. Further details will be added in due course.</p>
+   <p>The next DDaT staff dial-in will be hosted by Joanna Davinson on Tuesday June 22nd at 1415-1515 hours. This is an opportunity to hear from Joanna about the latest DDaT business and people news and to ask questions. Places are available on a first come first served basis, so please book your place now to avoid disappointment./<p>
+     <p>You will be able to ask questions during the call, but if you would like to any submit any questions in advance please use the following anonymous link: https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/</p>
 
 
-                  <!-- <div class="button_container_first">
-                <a class="btTxt" href="https://www.eventbrite.co.uk/e/ddat-all-staff-dial-in-tickets-40187871004">Book a ticket</a>
-            </div> -->
+                  <div class="button_container_first">
+                <a class="btTxt" href="https://www.eventbrite.co.uk/e/ddat-staff-dial-in-tickets-45681314040">Book your place now on Eventbrite</a>
+            </div>
 
 
            </div><!-- boxwhite-->
@@ -69,18 +70,15 @@
     </div>
 
 
-    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Champions Events - Coming Soon</span></h3>
+    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Champions Events - All Ages Matter - 14 May 2018</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
-
-   <p>Details coming soon.</p>
-
-
-                  <!-- <div class="button_container_first">
-                <a class="btTxt" href="https://www.eventbrite.co.uk/e/ddat-all-staff-dial-in-tickets-40187871004">Book a ticket</a>
-            </div> -->
+                <p>For the first time in history, up to five generations are now working side by side and we all play a part in ensuring the Civil Service workplace is inclusive, collaborative and rewarding for everyone. Join us for our first All Ages Matter networking event to help shape the workforce of the future.</p>
+                   <div class="button_container_first">
+                <a class="btTxt" href="http://x-government-all-ages-matter.herokuapp.com/">View event information</a>
+            </div>
 
 
            </div><!-- boxwhite-->
