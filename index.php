@@ -33,7 +33,7 @@
             <div class="box white">
 
 
-   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Bedfont Lakes.
+   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Bedfont Lakes on 22nd May.
 </p>
 
 
