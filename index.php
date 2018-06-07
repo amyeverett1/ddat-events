@@ -36,11 +36,7 @@
    <p>The Digital, Data and Technology roundtables are opportunities for senior leaders to meet with colleagues in DDaT for informal two-way discussions. These events take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Hendon on 14 June and will be hosted by Emma Dickson (Deputy Director – Operations, Enterprise Services, Soapworks, Salford).</p>
    <p>Please contact <a href="mailto:Dawn.Spooner@homeoffice.pnn.police.uk">Dawn.Spooner@homeoffice.pnn.police.uk</a> or <a href="mailto:Rachelle.Hembury@homeoffice.gsi.gov.uk">Rachelle.Hembury@homeoffice.gsi.gov.uk</a> for more information or to book a place.</p>
 
-        <div class="button_container_first">
-                <a class="btTxt" href="http://ddat-together-roundtable.herokuapp.com">View roundtable events</a>
-             </div>
-
-
+    
            </div><!-- end boxwhite-->
         </div> <!-- wrapper-->
 
