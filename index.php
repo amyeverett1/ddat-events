@@ -33,9 +33,8 @@
             <div class="box white">
 
 
-   <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Bedfont Lakes on 22nd May.
-</p>
-
+   <p>The Digital, Data and Technology roundtables are opportunities for senior leaders to meet with colleagues in DDaT for informal two-way discussions. These events take place across our main locations on a quarterly basis. The next DDaT Roundtable will be held in Hendon on 14 June and will be hosted by Emma Dickson (Deputy Director – Operations, Enterprise Services, Soapworks, Salford).</p>
+   <p>Please contact <a href="mailto:Dawn.Spooner@homeoffice.pnn.police.uk">Dawn.Spooner@homeoffice.pnn.police.uk</a> or <a href="mailto:Rachelle.Hembury@homeoffice.gsi.gov.uk">Rachelle.Hembury@homeoffice.gsi.gov.uk</a> for more information or to book a place.</p>
 
         <div class="button_container_first">
                 <a class="btTxt" href="http://ddat-together-roundtable.herokuapp.com">View roundtable events</a>
@@ -53,14 +52,7 @@
          <div class="wrapper">
             <div class="box white">
 
-   <p>The next DDaT staff dial-in will be hosted by Joanna Davinson on Tuesday May 22nd at 1345-1430 hours. This is an opportunity to hear from Joanna about the latest DDaT business and people news and to ask questions. Places are available on a first come first served basis, so please book your place now to avoid disappointment.<p>
-     <p>You will be able to ask questions during the call, but if you would like to any submit any questions in advance please use <a href="https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/">this anonymous link</a>.</p>
-
-
-                  <div class="button_container_first">
-                <a class="btTxt" href="https://www.eventbrite.co.uk/e/ddat-staff-dial-in-tickets-45681314040">Book your place now on Eventbrite</a>
-            </div>
-
+   <p>The last DDaT staff dial-in was hosted by Joanna Davinson on 22 May. If you have any follow-up questions please use <a href="https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/">this anonymous link</a>.</p>
 
            </div><!-- boxwhite-->
         </div> <!-- wrapper-->
@@ -70,14 +62,12 @@
     </div>
 
 
-    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Champions Events - All Ages Matter - 14 May 2018</span></h3>
+    <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>DDaT Champions events and updates</span></h3>
   <div>
 
          <div class="wrapper">
             <div class="box white">
-                <p>For the first time in history, up to five generations are now working side by side and we all play a part in ensuring the Civil Service workplace is inclusive, collaborative and rewarding for everyone. Join us for our first All Ages Matter networking event to help shape the workforce of the future.</p>
-                   <div class="button_container_first">
-                <a class="btTxt" href="http://x-government-all-ages-matter.herokuapp.com/">View event information</a>
+                <p>The DDaT Generational Diversity Champion (Rachelle Hembury) organised a cross-government “All Ages Matter” event with the Age Lead in MoJ (Jodie Keens) to encourage people to be more age aware.  Please look out for follow up articles in the DDaT Insider and follow @XGovAgeGroup on Twitter to keep up-to-date with cross-government developments.</p>
             </div>
 
 
