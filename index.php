@@ -26,7 +26,7 @@
       </div> <!-- wrapper-->
     </div>
 
-    <h3><i class="fa fa-volume-control-phone fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - 23 July 2018</span></h3>
+    <h3><i class="fa fa-volume-control-phone fa-lg" aria-hidden="true"></i> <span>DDaT all-staff dial-in event - September 2018</span></h3>
     <div>
       <div class="wrapper">
         <div class="box white">
@@ -49,7 +49,7 @@
             <li>Jessica Loudon – Diversity and Social Mobility</li>
             <li>Jugjit Matharu – Faith</li>
             <li>Vacant - Race</li>
-          </ul>          
+          </ul>
         </div>
       </div><!-- boxwhite-->
     </div> <!-- wrapper-->
