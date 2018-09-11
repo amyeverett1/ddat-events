@@ -187,8 +187,8 @@ i {
 /* links */
 
 a {
-    color: #00747A!important;
-    text-decoration: none;
+    color: #005ea5!important;
+    text-decoration: underline;
     word-wrap: break-word;
 }
 
